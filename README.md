@@ -1,0 +1,1 @@
+In order to begin playing, press START. To control the snake, use the arrow keys. Avoid the boundaries and colliding with the snake. To reset the game at any time, press SELECT.
